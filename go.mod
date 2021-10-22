@@ -1,3 +1,3 @@
-module github.com/lockp11/go-console
+module github.com/lockp111/go-console
 
 go 1.15
